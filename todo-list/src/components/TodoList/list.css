@@ -1,0 +1,14 @@
+.input-list {
+  width: 400px;
+  padding: 10px;
+}
+
+.button-list {
+  width: 200px;
+  padding: 10px;
+  color: white;
+  background-color: rgb(19, 19, 63);
+  margin-left: 10px;
+  font-size: 16px;
+  border: none;
+}
